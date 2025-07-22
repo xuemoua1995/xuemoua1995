@@ -1,8 +1,8 @@
 - 👋 Hi, I’m xuemoua
-- 👀 I’m interested in development software
-- 🌱 I’m currently learning flutter, vuejs and nodejs
-- 💞️ I’m looking to collaborate on Loca cpmpany and Team IT Freelance
-- 📫 How to reach me to be the startup
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Flutter, VueJS, ReactJS, NextJS, and NodeJS
+- 💞️ I’m looking to collaborate on Tech Sole and Team IT Freelance
+- 📫 How to reach me for the startup
 
 <!---
 xuemoua1995/xuemoua1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
